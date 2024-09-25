@@ -1,2 +1,1 @@
-# Collective
-yo
+[Collective](https://mitguy.github.io/collective/)

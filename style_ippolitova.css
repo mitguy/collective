@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap');
+
+.bojeneori1 {
+    font-family: "Fira Code";
+    margin: 0;
+    padding: 0;
+    background-color: #708090;
+    color: #F0FFFF;
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    }
+
+
+.bojeneori2 {
+        font-family: "Fira Code";
+        margin: 0;
+        padding: 0;
+        background-color: #708090;
+        color: #F0FFFF;
+        text-align: center;
+        font-size: 20px;
+        }
