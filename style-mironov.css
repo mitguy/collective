@@ -1,0 +1,63 @@
+.mironov {
+   font-family: Arial, sans-serif;
+   background-color: #f4f4f4;
+   margin: 0;
+   padding: 0;
+}
+
+.hearer-mironov {
+   background-color: #8caf4c;
+   color: white;
+   padding: 10px 0;
+   text-align: center;
+}
+
+.section-mironov {
+    margin: 20px;
+}
+
+.h1-mironov {
+    font-size: 2.5em;
+    margin: 10px 0;
+}
+
+.info{
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+.contact-mironov {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+}
+.my-skills {
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+.ul-mironov {
+    list-style-type: none;
+    padding: 0;
+}
+
+.li-mironov {
+    background-color: #81af4c;
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+    margin: 5px 0;
+}
+
+
+.a-mironov {
+    color: blue;
+    text-decoration: underline;
+}
+  
+.a-mironov:hover {
+    color: darkblue;
+    text-decoration: underline;
+}
