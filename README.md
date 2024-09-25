@@ -1,1 +1,1 @@
-# [Collective](https://mitguy.github.io/collective/)
+[Collective](https://mitguy.github.io/collective/)
