@@ -1,0 +1,98 @@
+.charushina__header {
+    background-image: url(https://avatars.mds.yandex.net/i?id=c7165495967ce70be2d6bbdd89e1e8a5_l-5245755-images-thumbs&n=13);
+}
+.header__logo {
+    font-family: sans-serif;
+    text-decoration: none;
+}
+.header__nav {
+    color: #5e4873;
+    font-family: sans-serif;
+}
+.nav__sod {
+    list-style: none;
+    background-color: #fa97a3;
+    width: 100px;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 4px;
+    color: #5e4873;
+    font-family: sans-serif;
+}
+.nav__item {
+    display: inline-block;
+}
+.charushina__nav a {
+    color: #5e4873;
+    text-decoration: none;
+    background-color: #fa97a3;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 4px;
+    font-family: sans-serif;
+}
+.port-section__nav a{
+    color: #5e4873;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.charushina__footer {
+    background-image: url(https://avatars.mds.yandex.net/i?id=c7165495967ce70be2d6bbdd89e1e8a5_l-5245755-images-thumbs&n=13);
+    color: #5e4873;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.footer-nav__item {
+    list-style-type: none;
+}
+.charushina__footer a {
+    color: #5e4873;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.port-section {
+    width: 500px;
+    margin: 70px;
+    border-radius: 7px;
+}
+.port-section--one {
+    background-color: #fa97a3;
+}
+.port-section--two {
+    background-color: #a9d1f3;
+}
+.port-section--three {
+    background-color: #f0c890;
+}
+.charushina__main {
+    overflow: hidden;
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.port-section__nav {
+    color: #5e4873;
+    text-decoration: none;
+}
+.port-section p{
+    font-family: sans-serif;
+}
+.port-section h2{
+    font-family: sans-serif;
+}
+.charushina__footer p{
+    color: #808080;
+}
+.port-section--three img{
+    display:block;
+    margin:auto;
+}
+.port-section--three figcaption{
+    font-family: sans-serif;
+}
+.port-item a{
+    font-family: sans-serif;
+    color: #5e4873;
+    text-decoration: none;
+}
