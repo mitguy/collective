@@ -1,5 +1,5 @@
 .charushina__header {
-    background-image: url(https://avatars.mds.yandex.net/i?id=c7165495967ce70be2d6bbdd89e1e8a5_l-5245755-images-thumbs&n=13);
+    background-color: #f0c890;
 }
 .header__logo {
     font-family: sans-serif;
@@ -95,4 +95,7 @@
     font-family: sans-serif;
     color: #5e4873;
     text-decoration: none;
+}
+.news-item_photo {
+    margin: 10px;
 }
