@@ -1,4 +1,4 @@
-.charushina__header {
+dive.charushina__header {
     background-color: #f0c890;
 }
 .header__logo {
@@ -12,7 +12,7 @@
 .nav__sod {
     list-style: none;
     background-color: #fa97a3;
-    width: 100px;
+    width: 120px;
     cursor: pointer;
     padding: 10px;
     border-radius: 4px;
@@ -86,7 +86,7 @@
 }
 .port-section--three img{
     display:block;
-    margin:auto;
+    margin:10px;
 }
 .port-section--three figcaption{
     font-family: sans-serif;
@@ -95,7 +95,4 @@
     font-family: sans-serif;
     color: #5e4873;
     text-decoration: none;
-}
-.news-item_photo {
-    margin: 10px;
 }
