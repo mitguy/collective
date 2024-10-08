@@ -1,4 +1,4 @@
-dive.charushina__header {
+.charushina__header {
     background-color: #f0c890;
 }
 .header__logo {
@@ -86,7 +86,8 @@ dive.charushina__header {
 }
 .port-section--three img{
     display:block;
-    margin:10px;
+    margin: auto;
+    margin-top: 10px;
 }
 .port-section--three figcaption{
     font-family: sans-serif;
