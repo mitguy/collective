@@ -1,0 +1,76 @@
+﻿.khafizova {
+    background-color: black;
+    color: antiquewhite;
+}
+
+.header-khafizova {
+    margin-top: 1px;
+}
+
+.nav-khafizova a {
+    font-size: 20px;
+    color: white;
+    margin-left: 4rem;
+}
+
+    .nav-khafizova a.active {
+        color: #55b155;
+    }
+
+.home-khafizova {
+    display: flex;
+    align-items: center;
+    gap: 4rem;
+    background-color: black;
+}
+
+    .home-khafizova .home-content .h1-khafizova {
+        margin-bottom: -10px;
+        font-size: 60px;
+    }
+
+.span-khafizova {
+    color: #55b155;
+}
+
+.home-content p {
+    font-size: 20px;
+}
+
+.home-img-khafizova img {
+    position: relative;
+    width: 40vw;
+    border-radius: 100%;
+    transition: 0.2s linear;
+}
+
+.social-icons a {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 4rem;
+    height: 4rem;
+    border: 0.2rem solid;
+    font-size: 3rem;
+    border-radius: 50%;
+}
+
+.typing-text .span-khafizova::before {
+    font-size: 50px;
+    content: "Веб-разработчик";
+    color: #55b155;
+    animation: words 20s infinite;
+}
+
+.typing-text .span-khafizova::after {
+    content: "";
+    height: 60px;
+    animation: cursor 0.6s infinite;
+}
+
+@keyframes cursor {
+    to {
+        height: 60px;
+        border-left: 2px solid #55b155;
+    }
+}
